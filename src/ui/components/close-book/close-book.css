@@ -1,0 +1,12 @@
+.CloseBook {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background-color: var(--book-cover-color);
+  width: var(--book-width);
+  height: var(--book-heigth);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  cursor: pointer;
+}

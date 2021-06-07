@@ -1,3 +1,23 @@
+:root {
+  --book-cover-color: black;
+  --book-page-color: whitesmoke;
+  --book-line-color: black;
+  --book-width: 400px;
+  --book-width-ope: calc(var(--book-width) * 2);
+  --book-heigth: 600px;
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  margin: 0 auto;
+  width: 90%;
+  max-width: 1100px;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
 .App {
   text-align: center;
 }

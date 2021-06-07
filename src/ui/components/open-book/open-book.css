@@ -1,0 +1,19 @@
+.Out {
+  display: flex;
+  align-items: center;
+}
+.OpenBook {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: var(--book-width-ope);
+  height: var(--book-heigth);
+  background-color: var(--book-cover-color);
+}
+.Out__button {
+  width: 30px;
+  background-color: rgba(255, 0, 0, 0);
+  border: 0;
+  margin: 0;
+}

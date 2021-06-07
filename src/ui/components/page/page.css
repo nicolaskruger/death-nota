@@ -1,0 +1,20 @@
+:root {
+  --page-width: calc(var(--book-width-ope) - 30px);
+  --page-heigth: calc(var(--book-heigth) - 30px);
+}
+.Page {
+  width: var(--page-width);
+  height: var(--page-heigth);
+  background-color: var(--book-page-color);
+  display: flex;
+  justify-content: space-between;
+}
+.Page__div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 49.9%;
+  height: 100%;
+  box-shadow: 0px 0px 20px 0px #000000;
+  padding: 5px;
+}

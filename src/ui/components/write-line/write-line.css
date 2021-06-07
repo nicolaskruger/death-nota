@@ -1,0 +1,11 @@
+.WriteLine {
+  display: flex;
+  align-items: flex-end;
+}
+.WriteLine__input {
+  width: 100%;
+  border: 0;
+  background-color: rgba(255, 0, 0, 0);
+  font-size: 17px;
+  outline: none;
+}
