@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/death-nota/static/css/main.77484dc8.chunk.css",
-    "main.js": "/death-nota/static/js/main.e604d851.chunk.js",
-    "main.js.map": "/death-nota/static/js/main.e604d851.chunk.js.map",
-    "runtime-main.js": "/death-nota/static/js/runtime-main.4a3368ab.js",
-    "runtime-main.js.map": "/death-nota/static/js/runtime-main.4a3368ab.js.map",
-    "static/js/2.bb9fd368.chunk.js": "/death-nota/static/js/2.bb9fd368.chunk.js",
-    "static/js/2.bb9fd368.chunk.js.map": "/death-nota/static/js/2.bb9fd368.chunk.js.map",
-    "index.html": "/death-nota/index.html",
-    "static/css/main.77484dc8.chunk.css.map": "/death-nota/static/css/main.77484dc8.chunk.css.map",
-    "static/js/2.bb9fd368.chunk.js.LICENSE.txt": "/death-nota/static/js/2.bb9fd368.chunk.js.LICENSE.txt"
+    "main.css": "/death-note/static/css/main.77484dc8.chunk.css",
+    "main.js": "/death-note/static/js/main.e604d851.chunk.js",
+    "main.js.map": "/death-note/static/js/main.e604d851.chunk.js.map",
+    "runtime-main.js": "/death-note/static/js/runtime-main.62727e4a.js",
+    "runtime-main.js.map": "/death-note/static/js/runtime-main.62727e4a.js.map",
+    "static/js/2.bb9fd368.chunk.js": "/death-note/static/js/2.bb9fd368.chunk.js",
+    "static/js/2.bb9fd368.chunk.js.map": "/death-note/static/js/2.bb9fd368.chunk.js.map",
+    "index.html": "/death-note/index.html",
+    "static/css/main.77484dc8.chunk.css.map": "/death-note/static/css/main.77484dc8.chunk.css.map",
+    "static/js/2.bb9fd368.chunk.js.LICENSE.txt": "/death-note/static/js/2.bb9fd368.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a3368ab.js",
+    "static/js/runtime-main.62727e4a.js",
     "static/js/2.bb9fd368.chunk.js",
     "static/css/main.77484dc8.chunk.css",
     "static/js/main.e604d851.chunk.js"
