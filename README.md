@@ -17,4 +17,4 @@ npm install #install the dependences
 npm start  #start the aplication
 ```
 
-## :bookmark_tabs: [page]()
+## :bookmark_tabs: [page](https://nicolaskruger.github.io/death-note/)
